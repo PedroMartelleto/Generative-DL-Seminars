@@ -1,6 +1,6 @@
 # Generative DL Seminars
 
-Jupyter notebooks used to present two seminars about generative deep learning models to my research colleagues from USP Municípios. The project, led by professor [Luis Gustavo Nonato](https://sites.icmc.usp.br/gnonato/), analyzes crime patterns at urban settings. The notebooks have been edited to serve as 'slides'. [Original code from the book "Generative Deep Learning" by David Foster.](https://github.com/davidADSP/GDL_code)
+Jupyter notebooks used to present two seminars about generative deep learning models to my research colleagues from USP Municípios. The project, led by professor [Luis Gustavo Nonato](https://sites.icmc.usp.br/gnonato/), analyzes crime patterns at urban settings. The notebooks have been edited to serve as slides. [Original code from the book "Generative Deep Learning" by David Foster.](https://github.com/davidADSP/GDL_code)
 
 ## Summary
 
